@@ -60,31 +60,3 @@ with open(file, mode='w', encoding='utf-8') as f:
     json.dump(domain_dict_all, f, ensure_ascii=False)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
